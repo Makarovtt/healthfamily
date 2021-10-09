@@ -10,7 +10,7 @@ function Footer({ adress, phone }) {
         <FooterWraper>
             <Container>
                 <WraperMap>
-                    <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A6a1d5e71c15886de1f5c8dd2777ff6b5d02d59198b6edb70d18ed0a79bdc7b46&amp;source=constructor" frameborder="0"></iframe>
+                <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A458e894aa5f23dda67e385ff82410297edd79ca926b3481b1ea9abd8424680aa&amp;source=constructor" width="1037" height="400" frameborder="0"></iframe>
                 </WraperMap>
                 <NavTopContainer>
                     <Logo src="/logo.svg" alt="logo" />

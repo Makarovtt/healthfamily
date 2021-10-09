@@ -13,13 +13,13 @@ const arrBanners = [
     {
         image: '/images/HomePage/Banner/background.jpg',
         titleName: 'Курцева <br /> Наталья Николаевна</h5>',
-        description: 'Гинеколог, стаж 25&nbsp;лет. Врач высшей категории',
+        description: 'Гинеколог, стаж 25&nbsp;лет.<br>Врач высшей категории',
         id: 'back1'
     },
     {
         image: '/images/HomePage/Banner/background2.jpg',
-        titleName: 'Горюнова <br /> Татьяна Витальевна',
-        description: 'Акушер-гинеколог.<br>Член ассоциации эстетической гинекологии РФ',
+        titleName: 'Горюнова <br /> Татьяна Винальевна',
+        description: 'Акушер-гинеколог. Член&nbsp;ассоциации эстетической гинекологии&nbsp;РФ',
         id: 'back2'
     },
 ]
